@@ -24,7 +24,7 @@ sys.path.insert(0, os.path.abspath("../"))
 
 
 # -- Project information -----------------------------------------------------
-project = "RebeccasTemplateTest"
+project = "templatetest"
 copyright = f"2020–{datetime.datetime.now().year}"
 author = "Rebecca Johannessen"
 

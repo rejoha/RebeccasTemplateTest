@@ -106,7 +106,7 @@ html_theme = "sphinx_book_theme"
 
 # https://sphinx-book-theme.readthedocs.io/en/latest/customize/index.html
 html_theme_options = {
-    "repository_url": "https://github.com/RealityBending/TemplatePythonPackage",
+    "repository_url": "https://github.com/rejoha/RebeccasTemplateTest/",
     "repository_branch": "main", 
     "use_repository_button": True,
     "use_issues_button": True,

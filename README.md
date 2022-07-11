@@ -5,7 +5,7 @@ A template for a minimal Python package with a automated documentation website.
 ## Installation
 
 ```
-pip install https://github.com/RealityBending/TemplatePythonPackage/zipball/main
+pip install https://github.com/rejoha/RebeccasTemplateTest/zipball/main
 ```
 
 ## Example

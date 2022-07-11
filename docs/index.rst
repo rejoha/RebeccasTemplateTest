@@ -6,6 +6,8 @@
 
 Welcome to the documentation, where you can find information.
 
+
+
 .. hint::
     The package can be installed by running:
 
@@ -13,7 +15,8 @@ Welcome to the documentation, where you can find information.
 
         pip install https://github.com/rejoha/RebeccasTemplateTest/zipball/main
 
-
+.. note::
+    This is my first package! 
 
 .. toctree::
    :maxdepth: 1

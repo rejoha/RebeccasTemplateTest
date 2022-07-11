@@ -31,7 +31,7 @@ jobs:
         pip install pandas
         pip install scipy
         pip install matplotlib
-        pip install https://github.com/RealityBending/TemplatePythonPackage/zipball/main
+        pip install https://github.com/rejoha/RebeccasTemplateTest/zipball/main
 
     - name: Build documentation 📜
       run: |

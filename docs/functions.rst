@@ -1,6 +1,6 @@
 Functions
 -----------------------
 
-.. autofunction:: RebeccasTemplateTest.joke
+.. autofunction:: templatetest.joke
 
-.. autofunction:: RebeccasTemplateTest.anotherfunction
+.. autofunction:: templatetest.anotherfunction

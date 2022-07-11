@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.abspath("../"))
 # -- Project information -----------------------------------------------------
 project = "RebeccasTemplateTest"
 copyright = f"2020–{datetime.datetime.now().year}"
-author = "Dominique Makowski"
+author = "Rebecca Johannessen"
 
 # The short X.Y version.
 def find_version():

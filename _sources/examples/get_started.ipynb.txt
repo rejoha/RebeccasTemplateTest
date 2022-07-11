@@ -24,7 +24,7 @@
     }
    ],
    "source": [
-    "import TemplatePythonPackage as mypack\n",
+    "import templatetest as mypack\n",
     "\n",
     "mypack.joke()"
    ]

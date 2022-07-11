@@ -13,7 +13,7 @@ def joke():
     --------
     .. ipython:: python
 
-        import TemplatePythonPackage
+        import templatetest
 
         TemplatePythonPackage.joke()
 

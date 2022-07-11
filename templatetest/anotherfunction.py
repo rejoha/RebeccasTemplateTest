@@ -18,7 +18,7 @@ def anotherfunction(x, y=0):
     --------
     .. ipython:: python
 
-        import TemplatePythonPackage
+        import templatetest
 
         TemplatePythonPackage.anotherfunction(1, 2)
 

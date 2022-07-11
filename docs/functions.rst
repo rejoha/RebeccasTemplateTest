@@ -1,6 +1,6 @@
 Functions
 -----------------------
 
-.. autofunction:: TemplatePythonPackage.joke
+.. autofunction:: RebeccasTemplateTest.joke
 
-.. autofunction:: TemplatePythonPackage.anotherfunction
+.. autofunction:: RebeccasTemplateTest.anotherfunction
